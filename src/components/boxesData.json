@@ -1,0 +1,9 @@
+{
+  "boxes": [
+    { "id": 1, "value": "Beneficiary" },
+    { "id": 2, "value": "Card Data" },
+    { "id": 3, "value": "Hospitals" },
+    { "id": 4, "value": "Treatments" },
+    { "id": 5, "value": "Reimbursements" }
+  ]
+}

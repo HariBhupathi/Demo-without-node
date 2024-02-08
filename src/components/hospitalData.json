@@ -1,0 +1,27 @@
+[
+  { "District": "Srikakulam", "Government": 120, "Private": 80 },
+  { "District": "Parvathipuram Manyam", "Government": 90, "Private": 60 },
+  { "District": "Visakhapatnam", "Government": 200, "Private": 150 },
+  { "District": "Vizianagaram", "Government": 80, "Private": 50 },
+  { "District": "Anakapalli", "Government": 100, "Private": 70 },
+  { "District": "Kakinada", "Government": 130, "Private": 90 },
+  { "District": "Konaseena", "Government": 70, "Private": 40 },
+  { "District": "Alluri Sitaramaraju", "Government": 110, "Private": 80 },
+  { "District": "East Godavari", "Government": 180, "Private": 120 },
+  { "District": "Eluru", "Government": 150, "Private": 100 },
+  { "District": "NTR District", "Government": 100, "Private": 60 },
+  { "District": "Guntur", "Government": 160, "Private": 110 },
+  { "District": "West Godavari", "Government": 120, "Private": 80 },
+  { "District": "Bapatla", "Government": 80, "Private": 50 },
+  { "District": "Palnadu", "Government": 110, "Private": 70 },
+  {
+    "District": "Sri Potti Sriramulu Nellore",
+    "Government": 140,
+    "Private": 90
+  },
+  { "District": "Prakasam", "Government": 120, "Private": 80 },
+  { "District": "Tirupati", "Government": 90, "Private": 60 },
+  { "District": "Annamayya", "Government": 70, "Private": 40 },
+  { "District": "YSR Kadapa", "Government": 100, "Private": 70 },
+  { "District": "Chittoor", "Government": 130, "Private": 90 }
+]

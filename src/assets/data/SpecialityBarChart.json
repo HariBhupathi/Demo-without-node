@@ -1,0 +1,102 @@
+[
+  {
+    "district": "Kakinada",
+    "Treatments": 4.5,
+    "Expenditure": 6.1
+  },
+  {
+    "district": "Dr. B. R. Ambedkar Konaseema",
+    "Treatments": 5.2,
+    "Expenditure": 5.6
+  },
+  {
+    "district": "East Godavari",
+    "Treatments": 4.7,
+    "Expenditure": 6.2
+  },
+  {
+    "district": "West Godavari",
+    "Treatments": 3.9,
+    "Expenditure": 4.8
+  },
+  {
+    "district": "Eluru",
+    "Treatments": 3.6,
+    "Expenditure": 4.2
+  },
+  {
+    "district": "Krishna",
+    "Treatments": 5.4,
+    "Expenditure": 5.1
+  },
+  {
+    "district": "NTR",
+    "Treatments": 5.1,
+    "Expenditure": 5.3
+  },
+  {
+    "district": "Guntur",
+    "Treatments": 5.8,
+    "Expenditure": 6.6
+  },
+  {
+    "district": "Palnadu",
+    "Treatments": 4.9,
+    "Expenditure": 6.4
+  },
+  {
+    "district": "Bapatla",
+    "Treatments": 5.5,
+    "Expenditure": 4.9
+  },
+  {
+    "district": "Prakasam",
+    "Treatments": 4.3,
+    "Expenditure": 5.3
+  },
+  {
+    "district": "Sri Potti Sriramulu Nellore",
+    "Treatments": 4.8,
+    "Expenditure": 4.5
+  },
+  {
+    "district": "Kurnool",
+    "Treatments": 5.1,
+    "Expenditure": 6.2
+  },
+  {
+    "district": "Nandyal",
+    "Treatments": 3.9,
+    "Expenditure": 4.5
+  },
+  {
+    "district": "Anantapuramu",
+    "Treatments": 5.4,
+    "Expenditure": 6.0
+  },
+  {
+    "district": "Sri Sathya Sai",
+    "Treatments": 4.8,
+    "Expenditure": 5.2
+  },
+  {
+    "district": "YSR",
+    "Treatments": 5.7,
+    "Expenditure": 6.5
+  },
+  {
+    "district": "Annamayya",
+    "Treatments": 5.0,
+    "Expenditure": 5.3
+  },
+  {
+    "district": "Tirupati",
+    "Treatments": 4.5,
+    "Expenditure": 4.7
+  },
+  {
+    "district": "Chittoor",
+    "Treatments": 5.3,
+    "Expenditure": 6.1
+  }
+]

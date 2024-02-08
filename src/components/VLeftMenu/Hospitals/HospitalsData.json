@@ -1,0 +1,191 @@
+[
+  {
+    "SL#": 1,
+    "District": "Srikakulam",
+    "Block": "Srikakulam",
+    "Hospital Name": "Srikakulam General Hospital",
+    "Address": "ABC Street, Srikakulam",
+    "PIN": "532001",
+    "Contact no": "7890123456"
+  },
+  {
+    "SL#": 2,
+    "District": "Parvathipuram Manyam",
+    "Block": "Parvathipuram",
+    "Hospital Name": "Parvathipuram Manyam Hospital",
+    "Address": "XYZ Street, Parvathipuram",
+    "PIN": "535501",
+    "Contact no": "9876012345"
+  },
+  {
+    "SL#": 3,
+    "District": "Visakhapatnam",
+    "Block": "Visakhapatnam",
+    "Hospital Name": "Visakhapatnam Medical Center",
+    "Address": "PQR Street, Visakhapatnam",
+    "PIN": "530001",
+    "Contact no": "8765432109"
+  },
+  {
+    "SL#": 4,
+    "District": "Vizianagaram",
+    "Block": "Vizianagaram",
+    "Hospital Name": "Vizianagaram District Hospital",
+    "Address": "LMN Street, Vizianagaram",
+    "PIN": "535002",
+    "Contact no": "7654321098"
+  },
+  {
+    "SL#": 5,
+    "District": "Anakapalli",
+    "Block": "Anakapalli",
+    "Hospital Name": "Anakapalli Health Center",
+    "Address": "EFG Street, Anakapalli",
+    "PIN": "531001",
+    "Contact no": "6543210987"
+  },
+  {
+    "SL#": 6,
+    "District": "Kakinada",
+    "Block": "Kakinada",
+    "Hospital Name": "Kakinada City Hospital",
+    "Address": "HIJ Street, Kakinada",
+    "PIN": "533001",
+    "Contact no": "5432109876"
+  },
+  {
+    "SL#": 7,
+    "District": "Konaseema",
+    "Block": "Konaseema",
+    "Hospital Name": "Konaseema Medical Center",
+    "Address": "KLM Street, Konaseema",
+    "PIN": "533201",
+    "Contact no": "4321098765"
+  },
+  {
+    "SL#": 8,
+    "District": "Alluri Sitaramaraju",
+    "Block": "Alluri Sitaramaraju",
+    "Hospital Name": "Alluri Sitaramaraju District Hospital",
+    "Address": "NOP Street, Alluri Sitaramaraju",
+    "PIN": "532001",
+    "Contact no": "3210987654"
+  },
+  {
+    "SL#": 9,
+    "District": "East Godavari",
+    "Block": "East Godavari",
+    "Hospital Name": "East Godavari General Hospital",
+    "Address": "QRS Street, East Godavari",
+    "PIN": "533001",
+    "Contact no": "2109876543"
+  },
+  {
+    "SL#": 10,
+    "District": "Eluru",
+    "Block": "Eluru",
+    "Hospital Name": "Eluru Medical Center",
+    "Address": "TUV Street, Eluru",
+    "PIN": "534001",
+    "Contact no": "1098765432"
+  },
+  {
+    "SL#": 11,
+    "District": "NTR District",
+    "Block": "NTR District",
+    "Hospital Name": "NTR District Hospital",
+    "Address": "WXY Street, NTR District",
+    "PIN": "534002",
+    "Contact no": "9876543210"
+  },
+  {
+    "SL#": 12,
+    "District": "Guntur",
+    "Block": "Guntur",
+    "Hospital Name": "Guntur City Hospital",
+    "Address": "ZAB Street, Guntur",
+    "PIN": "522001",
+    "Contact no": "8765432109"
+  },
+  {
+    "SL#": 13,
+    "District": "West Godavari",
+    "Block": "West Godavari",
+    "Hospital Name": "West Godavari General Hospital",
+    "Address": "LMN Street, West Godavari",
+    "PIN": "534001",
+    "Contact no": "7654321098"
+  },
+  {
+    "SL#": 14,
+    "District": "Bapatla",
+    "Block": "Bapatla",
+    "Hospital Name": "Bapatla Medical Center",
+    "Address": "CDE Street, Bapatla",
+    "PIN": "522101",
+    "Contact no": "6543210987"
+  },
+  {
+    "SL#": 15,
+    "District": "Palnadu",
+    "Block": "Palnadu",
+    "Hospital Name": "Palnadu District Hospital",
+    "Address": "EFG Street, Palnadu",
+    "PIN": "522102",
+    "Contact no": "5432109876"
+  },
+  {
+    "SL#": 16,
+    "District": "Sri Potti Sriramulu Nellore",
+    "Block": "Nellore",
+    "Hospital Name": "Nellore City Hospital",
+    "Address": "HIJ Street, Nellore",
+    "PIN": "524001",
+    "Contact no": "4321098765"
+  },
+  {
+    "SL#": 17,
+    "District": "Prakasam",
+    "Block": "Prakasam",
+    "Hospital Name": "Prakasam Medical Center",
+    "Address": "KLM Street, Prakasam",
+    "PIN": "523001",
+    "Contact no": "3210987654"
+  },
+  {
+    "SL#": 18,
+    "District": "Tirupati",
+    "Block": "Tirupati",
+    "Hospital Name": "Tirupati District Hospital",
+    "Address": "NOP Street, Tirupati",
+    "PIN": "517501",
+    "Contact no": "2109876543"
+  },
+  {
+    "SL#": 19,
+    "District": "Annamayya",
+    "Block": "Annamayya",
+    "Hospital Name": "Annamayya Medical Center",
+    "Address": "QRS Street, Annamayya",
+    "PIN": "517502",
+    "Contact no": "1098765432"
+  },
+  {
+    "SL#": 20,
+    "District": "YSR Kadapa",
+    "Block": "YSR Kadapa",
+    "Hospital Name": "YSR Kadapa General Hospital",
+    "Address": "TUV Street, YSR Kadapa",
+    "PIN": "516001",
+    "Contact no": "9876543210"
+  },
+  {
+    "SL#": 21,
+    "District": "Chittoor",
+    "Block": "Chittoor",
+    "Hospital Name": "Chittoor District Hospital",
+    "Address": "ABC Street, Chittoor",
+    "PIN": "517001",
+    "Contact no": "8765432109"
+  }
+]

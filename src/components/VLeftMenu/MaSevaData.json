@@ -1,0 +1,354 @@
+[
+  {
+    "SNo": 1,
+    "District": "Srikakulam",
+    "Block": "Parvathipuram Manyam",
+    "Owner": "Pradeep Kumar Rout",
+    "Address": "Ward No.- 21",
+    "Contact No": "9337706880"
+  },
+  {
+    "SNo": 2,
+    "District": "Srikakulam",
+    "Block": "Parvathipuram Manyam",
+    "Owner": "Smita Patel",
+    "Address": "Ward No.- 15",
+    "Contact No": "9876543210"
+  },
+  {
+    "SNo": 3,
+    "District": "Srikakulam",
+    "Block": "Parvathipuram Manyam",
+    "Owner": "Rahul Singh",
+    "Address": "Ward No.- 10",
+    "Contact No": "7890123456"
+  },
+  {
+    "SNo": 4,
+    "District": "Srikakulam",
+    "Block": "Parvathipuram Manyam",
+    "Owner": "Sunita Das",
+    "Address": "Ward No.- 5",
+    "Contact No": "8765432109"
+  },
+  {
+    "SNo": 5,
+    "District": "Srikakulam",
+    "Block": "Parvathipuram Manyam",
+    "Owner": "Amit Kumar",
+    "Address": "Ward No.- 30",
+    "Contact No": "6543210987"
+  },
+  {
+    "SNo": 6,
+    "District": "Srikakulam",
+    "Block": "Parvathipuram Manyam",
+    "Owner": "Meera Sharma",
+    "Address": "Ward No.- 12",
+    "Contact No": "7654321098"
+  },
+  {
+    "SNo": 7,
+    "District": "Parvathipuram Manyam",
+    "Block": "Parvathipuram",
+    "Owner": "Vijay Reddy",
+    "Address": "Street No.- 18",
+    "Contact No": "9876543201"
+  },
+  {
+    "SNo": 8,
+    "District": "Parvathipuram Manyam",
+    "Block": "Parvathipuram",
+    "Owner": "Sharmila Devi",
+    "Address": "Street No.- 25",
+    "Contact No": "8765432019"
+  },
+  {
+    "SNo": 9,
+    "District": "Parvathipuram Manyam",
+    "Block": "Parvathipuram",
+    "Owner": "Rajesh Kumar",
+    "Address": "Street No.- 12",
+    "Contact No": "7654320123"
+  },
+  {
+    "SNo": 10,
+    "District": "Parvathipuram Manyam",
+    "Block": "Parvathipuram",
+    "Owner": "Ananya Mishra",
+    "Address": "Street No.- 8",
+    "Contact No": "6543210234"
+  },
+  {
+    "SNo": 11,
+    "District": "Parvathipuram Manyam",
+    "Block": "Parvathipuram",
+    "Owner": "Kiran Reddy",
+    "Address": "Street No.- 15",
+    "Contact No": "5432102345"
+  },
+  {
+    "SNo": 12,
+    "District": "Visakhapatnam",
+    "Block": "Visakhapatnam",
+    "Owner": "Rajeev Sharma",
+    "Address": "Beach Road, Visakhapatnam",
+    "Contact No": "9876545678"
+  },
+  {
+    "SNo": 13,
+    "District": "Visakhapatnam",
+    "Block": "Visakhapatnam",
+    "Owner": "Pooja Verma",
+    "Address": "VIP Road, Visakhapatnam",
+    "Contact No": "8765436789"
+  },
+  {
+    "SNo": 14,
+    "District": "Visakhapatnam",
+    "Block": "Visakhapatnam",
+    "Owner": "Suresh Babu",
+    "Address": "Dolphin's Nose, Visakhapatnam",
+    "Contact No": "7654327890"
+  },
+  {
+    "SNo": 15,
+    "District": "Visakhapatnam",
+    "Block": "Visakhapatnam",
+    "Owner": "Anusha Reddy",
+    "Address": "Hill Top, Visakhapatnam",
+    "Contact No": "6543218901"
+  },
+  {
+    "SNo": 16,
+    "District": "Visakhapatnam",
+    "Block": "Visakhapatnam",
+    "Owner": "Kishore Kumar",
+    "Address": "Beach View Apartments, Visakhapatnam",
+    "Contact No": "5432109012"
+  },
+  {
+    "SNo": 17,
+    "District": "Vizianagaram",
+    "Block": "Vizianagaram",
+    "Owner": "Renuka Devi",
+    "Address": "Main Road, Vizianagaram",
+    "Contact No": "9876547890"
+  },
+  {
+    "SNo": 18,
+    "District": "Vizianagaram",
+    "Block": "Vizianagaram",
+    "Owner": "Vinay Kumar",
+    "Address": "Market Street, Vizianagaram",
+    "Contact No": "8765438901"
+  },
+  {
+    "SNo": 19,
+    "District": "Vizianagaram",
+    "Block": "Vizianagaram",
+    "Owner": "Preeti Singh",
+    "Address": "Gandhi Nagar, Vizianagaram",
+    "Contact No": "7654329012"
+  },
+  {
+    "SNo": 20,
+    "District": "Vizianagaram",
+    "Block": "Vizianagaram",
+    "Owner": "Manoj Reddy",
+    "Address": "Station Road, Vizianagaram",
+    "Contact No": "6543210123"
+  },
+  {
+    "SNo": 21,
+    "District": "Vizianagaram",
+    "Block": "Vizianagaram",
+    "Owner": "Anjali Sharma",
+    "Address": "Royal Enclave, Vizianagaram",
+    "Contact No": "5432101234"
+  },
+  {
+    "SNo": 22,
+    "District": "Anakapalli",
+    "Block": "Anakapalli",
+    "Owner": "Harish Kumar",
+    "Address": "Sai Nagar, Anakapalli",
+    "Contact No": "9876548901"
+  },
+  {
+    "SNo": 23,
+    "District": "Anakapalli",
+    "Block": "Anakapalli",
+    "Owner": "Sarita Devi",
+    "Address": "Green Valley, Anakapalli",
+    "Contact No": "8765439012"
+  },
+  {
+    "SNo": 24,
+    "District": "Anakapalli",
+    "Block": "Anakapalli",
+    "Owner": "Vikram Reddy",
+    "Address": "Navodaya Colony, Anakapalli",
+    "Contact No": "7654320123"
+  },
+  {
+    "SNo": 25,
+    "District": "Anakapalli",
+    "Block": "Anakapalli",
+    "Owner": "Ritu Singh",
+    "Address": "Shanti Nagar, Anakapalli",
+    "Contact No": "6543211234"
+  },
+  {
+    "SNo": 26,
+    "District": "Anakapalli",
+    "Block": "Anakapalli",
+    "Owner": "Suresh Reddy",
+    "Address": "Dwaraka Nagar, Anakapalli",
+    "Contact No": "5432102345"
+  },
+  {
+    "SNo": 27,
+    "District": "Kakinada",
+    "Block": "Kakinada",
+    "Owner": "Kavitha Sharma",
+    "Address": "Main Road, Kakinada",
+    "Contact No": "9876549012"
+  },
+  {
+    "SNo": 28,
+    "District": "Kakinada",
+    "Block": "Kakinada",
+    "Owner": "Raj Kumar",
+    "Address": "Rama Rao Street, Kakinada",
+    "Contact No": "8765430123"
+  },
+  {
+    "SNo": 29,
+    "District": "Kakinada",
+    "Block": "Kakinada",
+    "Owner": "Poonam Gupta",
+    "Address": "Gandhi Chowk, Kakinada",
+    "Contact No": "7654321234"
+  },
+  {
+    "SNo": 30,
+    "District": "Kakinada",
+    "Block": "Kakinada",
+    "Owner": "Manohar Reddy",
+    "Address": "Rajendra Nagar, Kakinada",
+    "Contact No": "6543212345"
+  },
+  {
+    "SNo": 31,
+    "District": "Kakinada",
+    "Block": "Kakinada",
+    "Owner": "Shweta Kumari",
+    "Address": "Lakshmi Nagar, Kakinada",
+    "Contact No": "5432103456"
+  },
+  {
+    "SNo": 32,
+    "District": "Konaseema",
+    "Block": "Konaseema",
+    "Owner": "Krishna Rao",
+    "Address": "Konaseema Road, Konaseema",
+    "Contact No": "9876540123"
+  },
+  {
+    "SNo": 33,
+    "District": "Konaseema",
+    "Block": "Konaseema",
+    "Owner": "Mamatha Reddy",
+    "Address": "Vijaya Nagar, Konaseema",
+    "Contact No": "8765431234"
+  },
+  {
+    "SNo": 34,
+    "District": "Konaseema",
+    "Block": "Konaseema",
+    "Owner": "Santosh Kumar",
+    "Address": "Nehru Street, Konaseema",
+    "Contact No": "7654322345"
+  },
+  {
+    "SNo": 35,
+    "District": "Konaseema",
+    "Block": "Konaseema",
+    "Owner": "Neelima Singh",
+    "Address": "Subramanyam Nagar, Konaseema",
+    "Contact No": "6543213456"
+  },
+  {
+    "SNo": 36,
+    "District": "Konaseema",
+    "Block": "Konaseema",
+    "Owner": "Rajendra Prasad",
+    "Address": "Gowtham Nagar, Konaseema",
+    "Contact No": "5432104567"
+  },
+  {
+    "SNo": 37,
+    "District": "Alluri Sitaramaraju",
+    "Block": "Alluri Sitaramaraju",
+    "Owner": "Anita Kumari",
+    "Address": "Station Road, Alluri Sitaramaraju",
+    "Contact No": "9876541234"
+  },
+  {
+    "SNo": 38,
+    "District": "Alluri Sitaramaraju",
+    "Block": "Alluri Sitaramaraju",
+    "Owner": "Raghav Reddy",
+    "Address": "Gandhi Nagar, Alluri Sitaramaraju",
+    "Contact No": "8765432345"
+  },
+  {
+    "SNo": 39,
+    "District": "Alluri Sitaramaraju",
+    "Block": "Alluri Sitaramaraju",
+    "Owner": "Priya Singh",
+    "Address": "Market Street, Alluri Sitaramaraju",
+    "Contact No": "7654323456"
+  },
+  {
+    "SNo": 40,
+    "District": "Alluri Sitaramaraju",
+    "Block": "Alluri Sitaramaraju",
+    "Owner": "Vikrant Sharma",
+    "Address": "Rama Rao Circle, Alluri Sitaramaraju",
+    "Contact No": "6543214567"
+  },
+  {
+    "SNo": 41,
+    "District": "Alluri Sitaramaraju",
+    "Block": "Alluri Sitaramaraju",
+    "Owner": "Shanti Devi",
+    "Address": "Sai Nagar, Alluri Sitaramaraju",
+    "Contact No": "5432105678"
+  },
+  {
+    "SNo": 42,
+    "District": "East Godavari",
+    "Block": "Rajahmundry",
+    "Owner": "Venkatesh Reddy",
+    "Address": "Main Road, Rajahmundry",
+    "Contact No": "9876542345"
+  },
+  {
+    "SNo": 43,
+    "District": "East Godavari",
+    "Block": "Rajahmundry",
+    "Owner": "Ankita Gupta",
+    "Address": "Lakshmi Nagar, Rajahmundry",
+    "Contact No": "8765433456"
+  },
+  {
+    "SNo": 44,
+    "District": "East Godavari",
+    "Block": "Rajahmundry",
+    "Owner": "Ramesh Kumar",
+    "Address": "Gandhi Chowk, Rajahmundry",
+    "Contact No": "7654324567"
+  }
+]

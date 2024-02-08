@@ -1,0 +1,49 @@
+{
+  "speciality": [
+    {
+      "id": 1,
+      "value": "Opthalmalogy",
+      "treated": "3,43,222",
+      "packages": "56",
+      "cost": "7.5Cr.",
+      "subTitle": "Total Households",
+      "subValue": "3,43,222"
+    },
+    {
+      "id": 2,
+      "value": "General Medicine",
+      "treated": "6,73,234",
+      "packages": "89",
+      "cost": "3.5Cr.",
+      "subTitle": "Households Covered",
+      "subValue": "322 Lakhs"
+    },
+    {
+      "id": 3,
+      "value": "Obstetrics and Gynecology",
+      "treated": "7,43,222",
+      "packages": "64",
+      "cost": "4.7Cr.",
+      "subTitle": "Govt / Private",
+      "subValue": "117 / 34 Lakhs"
+    },
+    {
+      "id": 4,
+      "value": "General Surgery",
+      "treated": "3,87,532",
+      "packages": "78",
+      "cost": "5.6Cr.",
+      "subTitle": "Govt / Private",
+      "subValue": "231 / 56 Lakhs"
+    },
+    {
+      "id": 5,
+      "value": "Orthopedics",
+      "treated": "6,64,984",
+      "packages": "74",
+      "cost": "8.9Cr.",
+      "subTitle": "Total Households",
+      "subValue": "317Lakhs"
+    }
+  ]
+}

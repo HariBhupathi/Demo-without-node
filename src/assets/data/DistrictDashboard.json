@@ -1,0 +1,139 @@
+{
+  "districts": [
+    {
+      "DistrictTitle": "Anantapur",
+      "TreatmentsDone": 8.45,
+      "Reimbursement": 80.25
+    },
+    {
+      "DistrictTitle": "Chittoor",
+      "TreatmentsDone": 6.78,
+      "Reimbursement": 100.55
+    },
+    {
+      "DistrictTitle": "East Godavari",
+      "TreatmentsDone": 10.12,
+      "Reimbursement": 70.89
+    },
+    {
+      "DistrictTitle": "Guntur",
+      "TreatmentsDone": 5.34,
+      "Reimbursement": 90.47
+    },
+    {
+      "DistrictTitle": "Kadapa",
+      "TreatmentsDone": 7.61,
+      "Reimbursement": 110.32
+    },
+    {
+      "DistrictTitle": "Krishna",
+      "TreatmentsDone": 9.88,
+      "Reimbursement": 80.14
+    },
+    {
+      "DistrictTitle": "Kurnool",
+      "TreatmentsDone": 4.29,
+      "Reimbursement": 120.68
+    },
+    {
+      "DistrictTitle": "Nellore",
+      "TreatmentsDone": 6.45,
+      "Reimbursement": 60.73
+    },
+    {
+      "DistrictTitle": "Prakasam",
+      "TreatmentsDone": 8.76,
+      "Reimbursement": 75.92
+    },
+    {
+      "DistrictTitle": "Srikakulam",
+      "TreatmentsDone": 10.98,
+      "Reimbursement": 45.36
+    },
+    {
+      "DistrictTitle": "Parvathipuram Manyam",
+      "TreatmentsDone": 7.22,
+      "Reimbursement": 95.87
+    },
+    {
+      "DistrictTitle": "Visakhapatnam",
+      "TreatmentsDone": 11.23,
+      "Reimbursement": 95.18
+    },
+    {
+      "DistrictTitle": "Vizianagaram",
+      "TreatmentsDone": 5.67,
+      "Reimbursement": 60.41
+    },
+    {
+      "DistrictTitle": "Anakapalli",
+      "TreatmentsDone": 9.14,
+      "Reimbursement": 110.79
+    },
+    {
+      "DistrictTitle": "Kakinada",
+      "TreatmentsDone": 6.89,
+      "Reimbursement": 85.95
+    },
+    {
+      "DistrictTitle": "Konaseema",
+      "TreatmentsDone": 8.33,
+      "Reimbursement": 70.26
+    },
+    {
+      "DistrictTitle": "Alluri Sitaramaraju",
+      "TreatmentsDone": 12.01,
+      "Reimbursement": 120.0
+    },
+    {
+      "DistrictTitle": "Eluru",
+      "TreatmentsDone": 11.45,
+      "Reimbursement": 95.5
+    },
+    {
+      "DistrictTitle": "NTR District",
+      "TreatmentsDone": 5.79,
+      "Reimbursement": 50.78
+    },
+    {
+      "DistrictTitle": "Bapatla",
+      "TreatmentsDone": 6.37,
+      "Reimbursement": 75.64
+    },
+    {
+      "DistrictTitle": "Palnadu",
+      "TreatmentsDone": 9.92,
+      "Reimbursement": 85.12
+    },
+    {
+      "DistrictTitle": "Sri Potti Sriramulu Nellore",
+      "TreatmentsDone": 7.86,
+      "Reimbursement": 110.2
+    },
+    {
+      "DistrictTitle": "Prakasam",
+      "TreatmentsDone": 8.67,
+      "Reimbursement": 75.88
+    },
+    {
+      "DistrictTitle": "Tirupati",
+      "TreatmentsDone": 6.55,
+      "Reimbursement": 90.45
+    },
+    {
+      "DistrictTitle": "Annamayya",
+      "TreatmentsDone": 10.34,
+      "Reimbursement": 55.67
+    },
+    {
+      "DistrictTitle": "YSR Kadapa",
+      "TreatmentsDone": 4.78,
+      "Reimbursement": 65.9
+    },
+    {
+      "DistrictTitle": "Chittoor",
+      "TreatmentsDone": 9.45,
+      "Reimbursement": 105.3
+    }
+  ]
+}

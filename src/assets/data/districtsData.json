@@ -1,0 +1,102 @@
+[
+  {
+    "district": "Kakinada",
+    "population": 200000,
+    "revenue": 250000
+  },
+  {
+    "district": "Dr. B. R. Ambedkar Konaseema",
+    "population": 180000,
+    "revenue": 220000
+  },
+  {
+    "district": "East Godavari",
+    "population": 500000,
+    "revenue": 400000
+  },
+  {
+    "district": "West Godavari",
+    "population": 300000,
+    "revenue": 350000
+  },
+  {
+    "district": "Eluru",
+    "population": 150000,
+    "revenue": 200000
+  },
+  {
+    "district": "Krishna",
+    "population": 450000,
+    "revenue": 300000
+  },
+  {
+    "district": "NTR",
+    "population": 280000,
+    "revenue": 320000
+  },
+  {
+    "district": "Guntur",
+    "population": 600000,
+    "revenue": 500000
+  },
+  {
+    "district": "Palnadu",
+    "population": 350000,
+    "revenue": 380000
+  },
+  {
+    "district": "Bapatla",
+    "population": 200000,
+    "revenue": 180000
+  },
+  {
+    "district": "Prakasam",
+    "population": 420000,
+    "revenue": 320000
+  },
+  {
+    "district": "Sri Potti Sriramulu Nellore",
+    "population": 280000,
+    "revenue": 250000
+  },
+  {
+    "district": "Kurnool",
+    "population": 300000,
+    "revenue": 280000
+  },
+  {
+    "district": "Nandyal",
+    "population": 180000,
+    "revenue": 200000
+  },
+  {
+    "district": "Anantapuramu",
+    "population": 450000,
+    "revenue": 400000
+  },
+  {
+    "district": "Sri Sathya Sai",
+    "population": 280000,
+    "revenue": 300000
+  },
+  {
+    "district": "YSR",
+    "population": 600000,
+    "revenue": 550000
+  },
+  {
+    "district": "Annamayya",
+    "population": 350000,
+    "revenue": 320000
+  },
+  {
+    "district": "Tirupati",
+    "population": 200000,
+    "revenue": 180000
+  },
+  {
+    "district": "Chittoor",
+    "population": 420000,
+    "revenue": 400000
+  }
+]

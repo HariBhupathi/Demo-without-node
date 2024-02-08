@@ -1,0 +1,39 @@
+{
+  "boxes": [
+    {
+      "id": 1,
+      "value": "Beneficiary",
+      "cost": "7.5Cr.",
+      "subTitle": "Total Households",
+      "subValue": "232 Lakhs"
+    },
+    {
+      "id": 2,
+      "value": "Card Data",
+      "cost": "3.5Cr.",
+      "subTitle": "Households Covered",
+      "subValue": "322 Lakhs"
+    },
+    {
+      "id": 3,
+      "value": "Hospitals",
+      "cost": "4.7Cr.",
+      "subTitle": "Govt / Private",
+      "subValue": "117 / 34 Lakhs"
+    },
+    {
+      "id": 4,
+      "value": "Treatments",
+      "cost": "5.6Cr.",
+      "subTitle": "Govt / Private",
+      "subValue": "231 / 56 Lakhs"
+    },
+    {
+      "id": 5,
+      "value": "Reimbursements",
+      "cost": "8.9Cr.",
+      "subTitle": "Total Households",
+      "subValue": "317Lakhs"
+    }
+  ]
+}
